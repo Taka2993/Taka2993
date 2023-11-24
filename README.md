@@ -21,7 +21,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/takatomokodera/) 
 
-<!-- # 💻 Tech Stack: -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 💻 Tech Stack: 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,cpp,py,vscode,github,git&perline=4)](https://skillicons.dev)
 
+## ⌨ Others:
+[![My Skills](https://skillicons.dev/icons?i=wordpress,raspberrypi,figma,blender&perline=4)](https://skillicons.dev)
 
