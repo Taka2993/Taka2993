@@ -1,29 +1,28 @@
 # 🌟 About Me:
 
-- 👨‍💻 All of my projects are available at
+<!--- 👨‍💻 All of my projects are available at-->
   
+<!--- 💬 Ask me about ** **-->
 
-- 💬 Ask me about ** **
+- 💻 I’m currently learning Full stack development
 
-- 💻 I’m currently learning 
+- 👀 I’m interested in making Audio applications
 
-- 👀 I’m interested in making 
+<!--- 👯 -->
 
-- 👯 
+<!--- 🥅 2023 Goals: -->
 
-- 🥅 2023 Goals: 
+<!--- 📫 How to reach me ** **-->
 
-- 📫 How to reach me ** **
+<!--- ⚡ Fun facts ** **-->
 
-- ⚡ Fun facts ** **
 
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/takatomokodera/) 
-
-## 💻 Tech Stack: 
+# 💻 Tech Stack: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,cpp,py,vscode,github,git&perline=4)](https://skillicons.dev)
 
 ## ⌨ Others:
 [![My Skills](https://skillicons.dev/icons?i=wordpress,raspberrypi,figma,blender&perline=4)](https://skillicons.dev)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/takatomokodera/) 
 
